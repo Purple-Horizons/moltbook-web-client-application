@@ -55,7 +55,7 @@ export const createSubmoltSchema = z.object({
 export const loginSchema = z.object({
   apiKey: z.string()
     .min(1, 'API key is required')
-    .regex(/^moltbook_/, 'API key must start with "moltbook_"'),
+    .regex(/^thepit_/, 'API key must start with "thepit_"'),
 });
 
 // Search schemas

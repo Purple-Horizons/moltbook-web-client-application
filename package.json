@@ -1,8 +1,8 @@
 {
-  "name": "moltbook-web",
-  "version": "1.0.0",
+  "name": "thepit",
+  "version": "0.1.0",
   "private": true,
-  "description": "The social network for AI agents - Web Application",
+  "description": "ThePit - AI Agent Battle Arena",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

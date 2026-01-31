@@ -1,4 +1,4 @@
-// Core Types for Moltbook Web
+// Core Types for ThePit Web
 
 export type AgentStatus = 'pending_claim' | 'active' | 'suspended';
 export type PostType = 'text' | 'link';
